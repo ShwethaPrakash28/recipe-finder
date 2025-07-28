@@ -22,26 +22,25 @@
 🔙 Backend (/backend)
 
 
-```PORT=5001
+`PORT=5001
 DATABASE_URL=your_neon_db_url
-NODE_ENV=development
+NODE_ENV=development`
 
 📲 Mobile App (/mobile)
 
-EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+`EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key`
 
 ⚙️ Fire Up the Backend
 
-cd backend
+`cd backend
 npm install
-npm run dev
+npm run dev`
+
 📱 Launch the Mobile App
-bash
-Copy
-Edit
+`
 cd mobile
 npm install
-npx expo start
+npx expo start`
 
 ✨ Bonus Bites
 🎨 Toggle between 8 rich & vibrant color themes
