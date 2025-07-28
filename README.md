@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">👩‍🍳✨ React Native Recipe App — Your Pocket-Sized MasterChef ✨👨‍🍳</h1>
 
 🍴 Features That’ll Make You Crave Coding:
@@ -50,6 +50,4 @@ npx expo start
 ⚡ Superfast development with Expo
 
 🛠️ Ready for scaling & additional features
-=======
-# recipe-finder
->>>>>>> 93b54746d6547af882843f4cb9e3aeafb8719007
+
